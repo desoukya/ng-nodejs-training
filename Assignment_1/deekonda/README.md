@@ -1,2 +1,2 @@
-Srinivas Deekonda
-dcnu23
+Name: Srinivas Deekonda
+Username: dcnu23
