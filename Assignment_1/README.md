@@ -19,3 +19,6 @@ https://github.com/desoukya/ng-nodejs-training
 7. Push your changes
 
 8. Raise a Pull Request
+
+ratnakar Katre
+ratnakarkatre@yahoo.com
