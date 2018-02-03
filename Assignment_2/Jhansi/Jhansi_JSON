@@ -1,4 +1,7 @@
 Jhansi
-{"user":[
-     {"firstName":"Jhansi","lastName:"Akurati",Gender:"Female", "email":"akurati2018@gmail.com", phoneNumber: "443-XXX-7354"}
-    ]}
+
+     {'firstName":"Jhansi',
+     "lastName":"Akurati",
+     "Gender":"Female", "email":"akurati2018@gmail.com", 
+     phoneNumber: "443-XXX-7354"}
+    }
