@@ -20,7 +20,7 @@ mongo ds123728.mlab.com:23728/ng -u ng -p ng
 
 To validate your insertion is working properly, you can:
  1) exec `db.users.find()` 
- 2) visit http://http://34.203.34.98/
+ 2) visit http://34.203.34.98
 
 
 Helpful Tip: Eventually, you will need to create a Node.js app that talks to this database. To do so, you will need:
