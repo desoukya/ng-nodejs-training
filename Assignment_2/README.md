@@ -2,13 +2,15 @@
 
 
 ### PART (A)
-#### Create a JSON structure to represent user information, such as:
+#### Create a folder with your last name and a user.json file. Inside the file, define a JSON structure with the following structure:
 
  - firstName
  - lastName
  - gender
  - email
  - phoneNumber
+
+You can use random values or your own information.
 
 Raise a PR: https://github.com/desoukya/ng-nodejs-service/pulls
 
