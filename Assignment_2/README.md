@@ -12,7 +12,7 @@
 
 You can use random values or your own information.
 
-Raise a PR: https://github.com/desoukya/ng-nodejs-service/pulls
+Raise a PR: https://github.com/desoukya/ng-nodejs-training/pulls
 
 ### PART (B)
 A cloud database instance of MongoDB has been created for you. Your task is to establish a connection with this database using your shell/terminal. Once you have gained access, your task is to insert the document created from PART (A) into the `users` collection. 
