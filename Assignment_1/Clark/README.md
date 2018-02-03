@@ -1,3 +1,6 @@
-## Assignment 1
+# Assignment 1
 Joshua Ryan Clark
-github/clarkis117
+
+Github: clarkis117
+
+https://github.com/clarkis117
