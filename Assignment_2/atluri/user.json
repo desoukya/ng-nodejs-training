@@ -1,0 +1,5 @@
+{
+    user: [
+      firstname: "naren", lastname: "atluri",gender: "male", email: "anarenp@gmail.com",phoneNumber: "3234455939"
+    ]
+  }
