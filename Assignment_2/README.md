@@ -4,12 +4,15 @@
 ### PART (A)
 #### Create a JSON structure to represent user information, such as:
 
- - firstName
- - lastName
- - gender
- - email
- - phoneNumber
 
+"Information":[
+    {"firstname":"John", 
+    "lastName":"Doe",
+    "gender":"Male",
+    "email":"ravi.vennapusa@gmail.com"
+    "phoneNumber":"732-407-1055"
+    }
+]
 Raise a PR: https://github.com/desoukya/ng-nodejs-service/pulls
 
 ### PART (B)
