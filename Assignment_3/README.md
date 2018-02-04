@@ -2,20 +2,24 @@
 
 
 ### PART (A)
-#### Implement the POST endpoint for adding a new user
+#### Implement a POST endpoint for adding a new user
 
-Note: You wil have to use the body parser package v1.18.2
+Note: You wil have to use the body parser package by requiring it as such:
+```
+const bodyParser  = require('body-parser');
+app.use(bodyParser.json());
+```
 
 The client is expected to POST a new object adhering to the predefined structure:
 ```
 {
-  "name": String,
-  "password": String,
-  "profession": String
+  "firstName": String,
+  "lastName": String,
+  "gender": String,
+  "email": String,
+  "phoneNumber": String
 }
 ```
-
-Note, the `id` field should be blank. Once the client posts the object, you are expected to determine the highest id value from the users array in order to increment it by one and assign it to the newly posted object. The complete object should be pushed to the array and persisted within the in-memory users object.
 
 The following line of code shows how to use the request body to retreive a field from the posted object:
 `const name = req.body.name;`
